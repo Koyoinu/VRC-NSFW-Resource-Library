@@ -1,4 +1,4 @@
-# **VRC-NSFW-Guide-Library**
+# **VRC-NSFW-Resource-Library**
 
 This Library is still very new if you have resources you would like to share with other people feel free to Contact me on discord shoot me a message and get striaght to the point i will most likely not respond to a simple hi or hello if im not familier with you
 
