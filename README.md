@@ -10,6 +10,9 @@ This Repo is still under Construction as it was just an idea that popped into my
 > **This Library is still very new if you have resources you would like to share with other people feel free to Contact me on discord shoot me a message and get striaght to the point i will most likely not respond to a simple hi or hello if im not familier with you or if that isnt your style you can make a fork and edit the repo and i'll look at it and see if i can merge it**
 * My discord is koyoinu
 
+### **Resource Contributers**
+* PxINKY
+
 
 ---
 # <img src="Images/Unity Logo.png" width="25"> **Unity**
@@ -72,3 +75,52 @@ This Repo is still under Construction as it was just an idea that popped into my
 > Booth is a Site based around Yen and hosts mainly Anime assets for VRChat its amainly SFW Site but there are some Softcore NSFW is still there as well
 
 ## **NSFW Asset Creators**
+> **If creators dont have a Bio On there gumroad there will be one made based on the of products they make**
+
+* ### Zaytha
+  > : )
+  * Gumroad | https://zaytha.gumroad.com
+
+* ### Zawoo
+  > Trinkets, odds and ends. That sort of ZaWoo.
+  * Gumroad | https://zawoo.gumroad.com
+
+* ### Koyoinu
+  > Making Lewd things and assets, Browse 100+ Products on this page
+  * Gumroad | https://koyoinu.gumroad.com
+
+* ### Keva
+  > I'm Keva, a 3d creator and musician otter!
+  * Gumroad | https://kevaotter.gumroad.com
+
+* ### ZealotDKD
+  > 3D Artist and Gamedev Dragon for hire
+  * Gumroad | https://zealotdkd.gumroad.com
+
+* ### Wholesome
+  > Creating pure wholesomeness
+  * Gumroad | https://wholesomevr.gumroad.com
+
+* ### AviworksVR
+  > 3D Generalist specializing in Virtual Reality Asset Creation
+  * Gumroad | https://aviworksvr.gumroad.com
+
+* ### JMctrl
+  > This is a platform for my assets
+  * Gumroad | https://jmctrl.gumroad.com
+
+* ### Zarphus
+  > They make Beaks and Lewd stuff for Bird type avatars
+  * Gumroad | https://zarphus.gumroad.com
+
+* ### BILLIE
+  > they have made a accessory and a musk system
+  * Gumroad | https://billiee.gumroad.com
+
+* ### Rain Jur
+  > I'm an 18 yr old makin VR Penis tech and books
+  * Gumroad | https://rainjur.gumroad.com
+
+* ### Skuny
+  > 3D model creator with a focus on lewd appeal
+  * Gumroad | https://skuny.gumroad.com
