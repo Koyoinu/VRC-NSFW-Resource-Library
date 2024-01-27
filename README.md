@@ -32,7 +32,9 @@ This Repo is still under Construction as it was just an idea that popped into my
 ### <img src="Images/Raliv_DPS Logo.webp" width="20" style="border-radius:20%"> DPS
 > DPS is the grandfather and the Founder of the Concept Virtual Penetration if DPS wasnt an outcome from just messing around with shaders and Lights we wouldnt have TPS or SPS sadly it never adapted to the VRC Avatar dynamics Update or imporoved on itself it is now marked as the foundation for what we have today tho if you would like to purchase it you can do so [Here](https://raliv.gumroad.com/l/lwthuB)
 
+* ##### TayouVR's Dynamic Penetration Guide (EN) | https://gist.github.com/TayouVR/aad7f8b6d83264b379d90e5100653a76
 
+* ##### TayouVR's Dynamic Penetration Guide (JP) | https://gist.github.com/TayouVR/f2445e4c3bd04ab349d9d0fe2d012acf
 
 
 
@@ -55,8 +57,18 @@ This Repo is still under Construction as it was just an idea that popped into my
 > AA:AD is another Selling, Trading & Commissioning server For NSFW Assets and Products
 
 ---
-# <img src="Images/Asset Librarys icon.png" width="35" align="left"> **Asset Librarys**
+# <img src="Images/Asset Librarys icon.png" width="35" align="left"> **Assets**
 
-## **3D Models**
+## **Databases**
 
 * ### Bad Dragons Database including 3D models, Textures, and Bakes | https://bad-dragon.com/api/products
+
+## **Asset Retail Sites**
+
+* ### Gumroad | https://discover.gumroad.com
+> Gumroad is the largest place to Get VRChat assets in a range from 3D models to Working Prefabs with systems From SFW to NSFW
+
+* ### Booth | https://booth.pm/en
+> Booth is a Site based around Yen and hosts mainly Anime assets for VRChat its amainly SFW Site but there are some Softcore NSFW is still there as well
+
+## **NSFW Asset Creators**
