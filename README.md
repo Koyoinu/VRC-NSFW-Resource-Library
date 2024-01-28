@@ -1,4 +1,4 @@
-<img src="Images/VRCNSFWRL Logo.png" width="800">
+<img src="Images/Logos & Icons/VRCNSFWRL Logo.png" width="800">
 
 ## **Info**
 
@@ -13,13 +13,15 @@ This Repo is still under Construction as it was just an idea that popped into my
 ### **Resource Contributers**
 * PxINKY
    > They Provided BD Database Link & Summery & flexuh's TPS Penetrator Guide
+* Rantis
+   > Provided the Arts & Avatars after dark discord link
 
 ### **Resource Helpers**
 * Poiyomi
     > Help with wording of curtain things
 
 ---
-# <img src="Images/Unity Logo.png" width="25"> **Unity**
+# <img src="Images/Logos & Icons/Unity Logo.png" width="25"> **Unity**
 > Making avatars, worlds or assets for both Unity is the back bone of VRchat
 
 
@@ -27,19 +29,19 @@ This Repo is still under Construction as it was just an idea that popped into my
 ## **Virtual Penetration**
 > Virtual Penetration is the concept of Simulating a Plug going into a socket through mesh manipulation
 
-### <img src="Images/vrcf Logo.png" width="20" style="border-radius:20%"> SPS
+### <img src="Images/Logos & Icons/vrcf Logo.png" width="20" style="border-radius:20%"> SPS
 > SPS is the latest in Virtual Penitration Technology and is the best thing/Easiest to set up out right now if you would like to read more about it you can find the official website page [Here](https://vrcfury.com/sps/)
 
 * ##### Lyn The Yeen's SPS in depth animation guide 3 Parts (Other parts in the comments) | https://twitter.com/LynTheYeen/status/1745109527626706957
 
 
-### <img src="Images/Poiyomi logo.png" width="20"> TPS
+### <img src="Images/Logos & Icons/Poiyomi logo.png" width="20"> TPS
 > TPS is the spiritual seccessor to DPS after no word from the DPS dev after the VRC Avatar Dynamics update TPS is behind the Pro verision of Poiyomi Due to its NSFW like Nature you can sub to Poiyomis Patreon [Here](https://www.patreon.com/poiyomi)
 
 * ##### flexuh's TPS Penetrator Guide | https://streamable.com/gpn8re
 
 
-### <img src="Images/Raliv_DPS Logo.webp" width="20" style="border-radius:20%"> DPS
+### <img src="Images/Logos & Icons/Raliv_DPS Logo.webp" width="20" style="border-radius:20%"> DPS
 > DPS is the grandfather and the Founder of the Concept Virtual Penetration if DPS wasnt an outcome from just messing around with shaders and Lights we wouldnt have TPS or SPS sadly it never adapted to the VRC Avatar dynamics Update or imporoved on itself it is now marked as the foundation for what we have today tho if you would like to purchase it you can do so [Here](https://raliv.gumroad.com/l/lwthuB)
 
 * ##### TayouVR's Dynamic Penetration Guide (EN) | https://gist.github.com/TayouVR/aad7f8b6d83264b379d90e5100653a76
@@ -49,13 +51,16 @@ This Repo is still under Construction as it was just an idea that popped into my
 
 
 ---
-# <img src="Images/Blender Logo.png" width="25"> **Blender**
+# <img src="Images/Logos & Icons/Blender Logo.png" width="25"> **Blender**
+> Blender is the back bone of all the assets we use its what most creators use to create 3D assets that we use in game to this day you can check out blender [Here](https://www.blender.org)
 
+## **New to Blender?**
+* [CG Cookies Blender 4.0 Tutorial Series](https://youtube.com/playlist?list=PL3GeP3YLZn5hhfaGRSmRia0OwPPMfJu0V&si=VQ7jN-hX4tCADhBd)
 
 
 
 ---
-# <img src="Images/Discord Logo.png" width="25"> **Discord Servers**
+# <img src="Images/Logos & Icons/Discord Logo.png" width="25"> **Discord Servers**
 
 * ### [The Lewd market](https://discord.gg/QxHWyhJ7nd)
 > Buy, Sell, and commission NSFW to fit your needs with one of the oldest NSFW VRC Market server
@@ -67,7 +72,7 @@ This Repo is still under Construction as it was just an idea that popped into my
 > AA:AD is another Selling, Trading & Commissioning server For NSFW Assets and Products
 
 ---
-# <img src="Images/Asset Librarys icon.png" width="35" align="left"> **Assets**
+# <img src="Images/Logos & Icons/Asset Librarys icon.png" width="35" align="left"> **Assets**
 
 ## **Databases**
 
@@ -84,50 +89,50 @@ This Repo is still under Construction as it was just an idea that popped into my
 ## **NSFW Asset Creators**
 > **If creators dont have a Bio On there gumroad there will be one made based on the of products they make**
 
-* ### Zaytha
+* ### <img src="Images/Profile Pictures/Zaytha PFP.webp" width="18" style="border-radius:50%"> Zaytha
   > : )
   * Gumroad | https://zaytha.gumroad.com
 
-* ### Zawoo
+* ### <img src="Images/Profile Pictures/ZaWoo PFP.jpg" width="18" style="border-radius:50%"> Zawoo
   > Trinkets, odds and ends. That sort of ZaWoo.
   * Gumroad | https://zawoo.gumroad.com
 
-* ### Koyoinu
+* ### <img src="Images/Profile Pictures/Koyoinu PFP.webp" width="18" style="border-radius:50%"> Koyoinu
   > Making Lewd things and assets, Browse 100+ Products on this page
   * Gumroad | https://koyoinu.gumroad.com
 
-* ### Keva
+* ### <img src="Images/Profile Pictures/Keva PFP.webp" width="18" style="border-radius:50%"> Keva
   > I'm Keva, a 3d creator and musician otter!
   * Gumroad | https://kevaotter.gumroad.com
 
-* ### ZealotDKD
+* ### <img src="Images/Profile Pictures/ZealotDKD PFP.webp" width="18" style="border-radius:50%"> ZealotDKD
   > 3D Artist and Gamedev Dragon for hire
   * Gumroad | https://zealotdkd.gumroad.com
 
-* ### Wholesome
+* ### <img src="Images/Profile Pictures/Wholesome PFP.webp" width="18" style="border-radius:50%"> Wholesome
   > Creating pure wholesomeness
   * Gumroad | https://wholesomevr.gumroad.com
 
-* ### AviworksVR
+* ### <img src="Images/Profile Pictures/AviworksVR PFP.webp" width="18" style="border-radius:50%"> AviworksVR
   > 3D Generalist specializing in Virtual Reality Asset Creation
   * Gumroad | https://aviworksvr.gumroad.com
 
-* ### JMctrl
+* ### <img src="Images/Profile Pictures/JMctrl PFP.webp" width="18" style="border-radius:50%"> JMctrl
   > This is a platform for my assets
   * Gumroad | https://jmctrl.gumroad.com
 
-* ### Zarphus
+* ### <img src="Images/Profile Pictures/Zarphus PFP.webp" width="18" style="border-radius:50%"> Zarphus
   > They make Beaks and Lewd stuff for Bird type avatars
   * Gumroad | https://zarphus.gumroad.com
 
-* ### BILLIE
+* ### <img src="Images/Profile Pictures/BILLIE PFP.webp" width="18" style="border-radius:50%"> BILLIE
   > they have made a accessory and a musk system
   * Gumroad | https://billiee.gumroad.com
 
-* ### Rain Jur
+* ### <img src="Images/Profile Pictures/Rain Jur PFP.webp" width="18" style="border-radius:50%"> Rain Jur
   > I'm an 18 yr old makin VR Penis tech and books
   * Gumroad | https://rainjur.gumroad.com
 
-* ### Skuny
+* ### <img src="Images/Profile Pictures/Skunny PFP.webp" width="18" style="border-radius:50%"> Skuny
   > 3D model creator with a focus on lewd appeal
   * Gumroad | https://skuny.gumroad.com
