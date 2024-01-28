@@ -12,10 +12,17 @@ This Repo is still under Construction as it was just an idea that popped into my
 
 ### **Resource Contributers**
 * PxINKY
+   > They Provided BD Database Link & Summery & flexuh's TPS Penetrator Guide
 
+### **Resource Helpers**
+* Poiyomi
+    > Help with wording of curtain things
 
 ---
 # <img src="Images/Unity Logo.png" width="25"> **Unity**
+> Making avatars, worlds or assets for both Unity is the back bone of VRchat
+
+
 
 ## **Virtual Penetration**
 > Virtual Penetration is the concept of Simulating a Plug going into a socket through mesh manipulation
