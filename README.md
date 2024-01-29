@@ -24,7 +24,11 @@ This Repo is still under Construction as it was just an idea that popped into my
 # <img src="Images/Logos & Icons/Unity Logo.png" width="25"> **Unity**
 > Making avatars, worlds or assets for both Unity is the back bone of VRchat
 
+## **Half Body NSFW Movement**
+> Are you half body and dont have the money at the moment well a community project has got you coverd the Creator Drake has made Lastation NSFW GOGO a edit of the Gogo Loco Prefab you cvan check it out [Here](https://github.com/LastationVRChat/NSFW-GoLoco)
 
+## **VRC Lovense Intigration**
+> Some people cant get phantom sense like others or want to get better and getting phantom sense or mix there phantom sense with something real Community Created Project OSC Goes Brr (OGB) Has your back check out more with them [Here](https://osc.toys)
 
 ## **Virtual Penetration**
 > Virtual Penetration is the concept of Simulating a Plug going into a socket through mesh manipulation
@@ -87,7 +91,7 @@ This Repo is still under Construction as it was just an idea that popped into my
 > Booth is a Site based around Yen and hosts mainly Anime assets for VRChat its amainly SFW Site but there are some Softcore NSFW is still there as well
 
 ## **NSFW Asset Creators**
-> **If creators dont have a Bio On there gumroad there will be one made based on the of products they make**
+> **If creators dont have a Bio On there gumroad or have made and published one thing there will be one made based on the of products they make**
 
 * ### <img src="Images/Profile Pictures/Zaytha PFP.webp" width="18" style="border-radius:50%"> Zaytha
   > : )
@@ -136,3 +140,23 @@ This Repo is still under Construction as it was just an idea that popped into my
 * ### <img src="Images/Profile Pictures/Skunny PFP.webp" width="18" style="border-radius:50%"> Skuny
   > 3D model creator with a focus on lewd appeal
   * Gumroad | https://skuny.gumroad.com
+
+* ### <img src="Images/Profile Pictures/SpacedragonStyle PFP.webp" width="18" style="border-radius:50%"> SpacedragonStyle
+  > I hope to be able to provide good 3D assets and general tutorials for an affordable price through here
+  * Gumroad | https://spacedragonstyle.gumroad.com
+
+* ### <img src="Images/Profile Pictures/GlenSkunk PFP.webp" width="18" style="border-radius:50%"> GlenSkunk
+  > 2d and 3d artwork, including avatars for use in Unity-based games like VRChat, ChilloutVR and Neos!
+  * Gumroad | https://glenskunk.gumroad.com
+
+* ### <img src="Images/Profile Pictures/Kipper's Creations PFP.webp" width="18" style="border-radius:50%"> Kipper's Creations
+  > I'm here to provide you with some accessories for your vrchat models
+  * Gumroad | https://czarwolf.gumroad.com 
+
+* ### <img src="Images/Profile Pictures/Baku PFP.webp" width="18" style="border-radius:50%"> Baku
+  > The Creator of the HeaftyBits Penis
+  * Gumroad | https://bakufluff.gumroad.com 
+
+* ### <img src="Images/Profile Pictures/Redotix99 PFP.webp" width="18" style="border-radius:50%"> Redotix99
+  > The Creator of The Stylized Human Penis
+  * Gumroad | https://redotix99.gumroad.com
